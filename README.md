@@ -1,2 +1,2 @@
 # Hololens-Device-Portal-Downloader
-Download all files for a specific package
+Hololens device portal just allows user to download one file at a time. This script helps you to download all files for a specific package.
